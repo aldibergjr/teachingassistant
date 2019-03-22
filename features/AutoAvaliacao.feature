@@ -56,10 +56,15 @@ And existe no total três alunos “Pedro”, “André” e “Jakob”, onde �
 When  eu observo os campos “tabela de discrepância” e “alunos com discrepância”
 Then eu vejo o campo “alunos com discrepância” com “33%”
 And aparece um aluno na“tabela de discrepância”  com o nome “Jakob” que tem “discrepância” “33%”.
+<<<<<<< HEAD
 alteração
 maior 
 que precisou ser feita.
 sou um novo commit da questao 14.
+=======
+eu sou uma alteracao no final
+
+>>>>>>> alteração no final
 
 
 

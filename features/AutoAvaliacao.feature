@@ -39,9 +39,12 @@ When eu envio as avaliações “MA”, “-” , “MPA”
 Then o sistema retorna uma mensagem de erro
 And não salva as metas inseridas
 And redireciona para página "auto-avaliação".
+<<<<<<< HEAD
 a
 a
 a
+=======
+>>>>>>> alteração branch discrepantes
 
 Scenario: Tabela de discrepância
 Given que estou na tela “tabela de discrepância”
@@ -57,13 +60,19 @@ When  eu observo os campos “tabela de discrepância” e “alunos com discrep
 Then eu vejo o campo “alunos com discrepância” com “33%”
 And aparece um aluno na“tabela de discrepância”  com o nome “Jakob” que tem “discrepância” “33%”.
 <<<<<<< HEAD
+<<<<<<< HEAD
 alteração
 maior 
 que precisou ser feita.
 sou um novo commit da questao 14.
 =======
+=======
+alteração
+maior 
+que precisou ser feita.
+>>>>>>> alteração branch discrepantes
 eu sou uma alteracao no final
-que se deus quiser não vai dar conflito
+alteracao feita no branch discrepantes.
 
 >>>>>>> alteração no final
 
